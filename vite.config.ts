@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     // 🔹 Necesario para GitHub Pages
-    base: '/report-general/',
+    base: '/Cali-2026-Dashboard-Ejecutivo/',
 
     server: {
       port: 3000,
